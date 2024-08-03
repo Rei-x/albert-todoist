@@ -15,8 +15,8 @@ md_version = "1.4"
 md_name = "Todoist Tasks"
 md_description = "Add tasks to Todoist and view existing tasks"
 md_license = "MIT"
-md_url = "https://github.com/yourusername/albert-todoist"
-md_authors = "@yourusername"
+md_url = "https://github.com/Rei-x/albert-todoist"
+md_authors = "@Rei-x"
 md_lib_dependencies = "todoist-api-python"
 
 class Plugin(PluginInstance, TriggerQueryHandler):
